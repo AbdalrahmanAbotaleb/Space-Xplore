@@ -31,10 +31,3 @@
   <video src="https://github.com/Shrouk-Ashraf/Space-Xplore/assets/96924895/0a062b08-1fb1-440b-a620-ec22c713b089" />
 </div>
 
-## 📌 Contributors
-- Space Xplore is made possible by the contributions of the following developers:
-  1. [Shrouk Ashraf](https://github.com/Shrouk-Ashraf)
-  2. [Nada Mohammed](https://github.com/nadaamohhamed)
-  3. [Islam Ashraf](https://github.com/islamashraf2003)
-  4. [Abdelrahman Sobhy](https://github.com/abdarahmann)
--  For any inquiries, feedback, or collaborations, feel free to contact us.
